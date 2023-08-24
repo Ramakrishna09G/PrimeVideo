@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.prime-video-bg-container {
+  width: 1550px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.prime-video-container {
+  background-color: #000000;
+  max-width: 1180px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 25px;
+}
+.prime-img {
+  width: 1180px;
+}
+.movies-list-container {
+  max-width: 1180px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 20px;
+}
+.movies-category {
+  max-width: 1180px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 25px;
+  margin-left: 55px;
+}
+.slider-container {
+  width: 90%;
+  align-self: center;
+}

@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.movie-item-container {
+}
+.popup-content {
+  display: flex;
+  flex-direction: column;
+  font-size: 25px;
+  border-radius: 5px;
+}
+.thumbnail {
+}
+.close-btn {
+  border: none;
+  background-color: transparent;
+  align-self: flex-end;
+  outline: none;
+}
+.close-icon {
+  align-self: flex-end;
+  font-size: 18px;
+  color: #616e7c;
+}
+.react-player {
+  align-self: center;
+  margin: 10px;
+}
